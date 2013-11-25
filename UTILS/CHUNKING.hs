@@ -1,5 +1,5 @@
-module NLP_CHUNKING ( readchunks_str
-                    , readchunks_file) where
+module CHUNKING ( readchunks_str
+                , readchunks_file) where
 
 import qualified Text.Regex
 --import qualified Data.ByteString as S
